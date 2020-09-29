@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":330:{a:2:{s:7:"defects";a:2:{s:19:"Tests::test_timeAgo";i:3;s:26:"Tests::test_changepass_con";i:3;}s:5:"times";a:6:{s:26:"Tests::test_changepass_con";d:0.003;s:23:"Tests::test_comment_con";d:0;s:27:"Tests::test_delete_post_con";d:0;s:19:"Tests::test_reg_con";d:0;s:23:"Tests::test_sign_up_con";d:0.001;s:19:"Tests::test_timeAgo";d:0;}}}
